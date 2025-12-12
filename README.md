@@ -1,5 +1,8 @@
 # 🚀 Power BI ile "The Look" E-Ticaret Veri Analizi ve İş İçgörüleri
 
+![Uploading Ekran görüntüsü 2025-12-13 001059.png…]()
+
+
 Bu proje, kurgusal bir giyim e-ticaret perakendecisi olan **"The Look"** şirketinin kapsamlı operasyonel verilerini analiz etmek ve bu verilerden iş kararlarını yönlendirecek uygulanabilir içgörüler çıkarmak amacıyla **Microsoft Power BI** kullanılarak geliştirilmiştir.
 
 ## 🎯 Proje Özeti ve Amacı
@@ -50,7 +53,7 @@ Analiz panosunda kritik iş sorularını yanıtlamak için DAX (Data Analysis Ex
 
 ---
 
-## 📊 Pano Görselleştirmeleri ve Temel İçgörüler
+## 📊 Dashboard Görselleştirmeleri ve Temel İçgörüler
 
 Power BI panosu, kullanıcıların tarih, bölge ve ürün kategorisine göre dinamik olarak filtreleme yapabileceği etkileşimli grafikler içermektedir.
 
@@ -77,4 +80,4 @@ Elde edilen analiz sonuçlarına dayanarak, The Look şirketine aşağıdaki aks
 
 ---
 
-## 🛠️ Proje Dizin Yapısı
+
