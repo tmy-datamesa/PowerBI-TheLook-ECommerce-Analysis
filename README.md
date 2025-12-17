@@ -20,21 +20,6 @@ Analiz, şirketin satış performansı, müşteri davranışları ve envanter ve
 
 Projede kullanılan veri seti, siparişler, envanter, kullanıcılar, ürünler ve olaylar gibi temel e-ticaret süreçlerini kapsayan 7 ana tablodan oluşmaktadır.
 
-### 🗄️ Veri Modeli İlişkileri
-
-Verilerin etkin analizi için Power BI'da bir Yıldız Şeması (Star Schema) yapısına uygun ilişkiler kurulmuştur.
-
-| Tablo Adı | İçerik | Anahtar Alanlar (Örnek) |
-| :--- | :--- | :--- |
-| `siparişler` | Müşteri sipariş kayıtları | `sipariş_id`, `kullanıcı_id` |
-| `sipariş_öğeleri` | Sipariş edilen ürünler ve durumları | `sipariş_id`, `envanter_öğesi_id` |
-| `envanter_öğeleri` | Stok ve satışa ait maliyet/durum bilgileri | `ürün_id`, `maliyet`, `ürün_kategorisi` |
-| `ürünler` | Ürün ana bilgileri | `id`, `kategori`, `marka`, `perakende_fiyatı` |
-| `kullanıcılar` | Müşteri demografik bilgileri | `id`, `yaş`, `ülke` |
-| `olaylar` | Web sitesi etkileşimleri | `kullanıcı_id`, `oturum_id` |
-
-*(Not: Projenizin tam veri modelini (ERD) bu bölüme bir görsel olarak eklemeniz (örneğin `erd_diagram.png`) dökümantasyonunuzu daha etkili hale getirecektir.)*
-
 ---
 
 ## 📈 Anahtar Performans Göstergeleri (KPI'lar)
