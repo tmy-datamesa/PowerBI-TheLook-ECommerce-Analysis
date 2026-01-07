@@ -51,6 +51,11 @@ Power BI panosu, kullanıcıların tarih, bölge ve ürün kategorisine göre di
 ### 3. Müşteri ve Lojistik Performansı
 * **İptal Oranı (%14.86) ve İade Oranı (%10.01):** Bu oranlar, e-ticaret için kabul edilebilir sınırlar içinde olmakla birlikte, maliyetleri düşürmek amacıyla bu oranlara neden olan temel faktörlerin (ürün kalitesi, beden tutarsızlığı, lojistik gecikmeleri) araştırılması gerekmektedir.
 
+<img width="2318" height="1299" alt="image" src="https://github.com/user-attachments/assets/ddec5dcd-721b-4206-be4a-10e57420fb04" />
+<img width="1862" height="1048" alt="image" src="https://github.com/user-attachments/assets/6023a326-c8df-4566-a37d-77464a120cfa" />
+<img width="1863" height="1045" alt="image" src="https://github.com/user-attachments/assets/90206c6b-9628-4663-b139-ad4719d2875f" />
+<img width="1864" height="1048" alt="image" src="https://github.com/user-attachments/assets/20a34509-9943-4d8c-8623-d180384d6e23" />
+
 ---
 
 ## 💡 Uygulanabilir İş Önerileri (Aksiyon Planı)
